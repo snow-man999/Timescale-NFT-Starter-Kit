@@ -169,3 +169,6 @@ OpenSea (this sample was used for the Superset dashboard as well)
 [queries]: https://github.com/timescale/nft-starter-kit/blob/master/queries.sql
 [config]: https://github.com/timescale/nft-starter-kit/blob/master/config.py
 [sample-dw]: https://assets.timescale.com/docs/downloads/nft_sample.zip
+
+
+`If you have some any question with this project, feel free to reach out.`
